@@ -3,6 +3,11 @@ w3 school:
 https://drive.google.com/drive/folders/1JShkwH2AdAm4Zd2X8iNbUTqrx32vwhFa?usp=sharing
 ```
 
+Udemy Next.js by Example
+```
+https://drive.google.com/drive/folders/1zxJu7sSkA2zSEHpY32uxLNqQ7qZRE6uH?usp=sharing
+```
+
 Udemy solana blockchain foundation:
 ```
 https://drive.google.com/drive/folders/1K74fluZIb76ykCK_Gq7S7Sf6gICF6Jo0?usp=sharing
